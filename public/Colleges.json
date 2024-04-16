@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1,
+    "name": "Indian Institute of Technology Delhi (IITD)",
+    "courseFees": 254650,
+    "placement": 2582000,
+    "userRating": 8.7,
+    "ranking": 1
+  },
+  {
+    "id": 2,
+    "name": "Indian Institute of Technology Bombay (IITB)",
+    "courseFees": 231000,
+    "placement": 2450000,
+    "userRating": 8.8,
+    "ranking": 2
+  },
+  {
+    "id": 3,
+    "name": "Indian Institute of Technology Madras (IITM)",
+    "courseFees": 218500,
+    "placement": 2398000,
+    "userRating": 8.6,
+    "ranking": 3
+  },
+  {
+    "id": 4,
+    "name": "Indian Institute of Science Bangalore (IISc)",
+    "courseFees": 275000,
+    "placement": 2200000,
+    "userRating": 8.5,
+    "ranking": 4
+  },
+  {
+    "id": 5,
+    "name": "Indian Institute of Technology Kanpur (IITK)",
+    "courseFees": 242000,
+    "placement": 2285000,
+    "userRating": 8.4,
+    "ranking": 5
+  },
+  {
+    "id": 6,
+    "name": "Indian Institute of Management Ahmedabad (IIM Ahmedabad)",
+    "courseFees": 2000000,
+    "placement": 2800000,
+    "userRating": 9.0,
+    "ranking": 1
+  },
+  {
+    "id": 7,
+    "name": "Indian Institute of Management Calcutta (IIM Calcutta)",
+    "courseFees": 1850000,
+    "placement": 2700000,
+    "userRating": 8.9,
+    "ranking": 2
+  },
+  {
+    "id": 8,
+    "name": "Indian Institute of Management Bangalore (IIM Bangalore)",
+    "courseFees": 1920000,
+    "placement": 2650000,
+    "userRating": 8.8,
+    "ranking": 3
+  },
+  {
+    "id": 9,
+    "name": "National Institute of Technology Tiruchirappalli (NIT Trichy)",
+    "courseFees": 180000,
+    "placement": 1950000,
+    "userRating": 8.2,
+    "ranking": 11
+  },
+  {
+    "id": 10,
+    "name": "Delhi Technological University (DTU)",
+    "courseFees": 150000,
+    "placement": 1780000,
+    "userRating": 8.1,
+    "ranking": 25
+  },
+  {
+    "id": 11,
+    "name": "Indian Institute of Space Science and Technology - [IIST]",
+    "courseFees": 144900,
+    "placement": 1980000,
+    "userRating": 7.8,
+    "ranking": 20
+  },
+  {
+    "id": 12,
+    "name": "Visvesvaraya National Institute of Technology - [VNIT]",
+    "courseFees": 149200,
+    "placement": 2100000,
+    "rating": 7.8,
+    "ranking": 35
+  },
+  {
+    "id": 13,
+    "name": "Birla Institute of Technology - [BIT Mesra]",
+    "courseFees": 377700,
+    "placement": 1301000,
+    "rating": 7.7,
+    "ranking": 24
+  },
+  {
+    "id": 14,
+    "name": "Amity University",
+    "courseFees": 413000,
+    "placement": 1202000,
+    "rating": 7.7,
+    "ranking": 13
+  },
+  {
+    "id": 15,
+    "name": "SRM Engineering College",
+    "courseFees": 275000,
+    "placement": 1500000,
+    "rating": 7.6,
+    "ranking": 20
+  },
+
+  {
+    "id": 16,
+    "name": "SSN College of Engineering - [SSNCE]",
+    "courseFees": 200000,
+    "placement": 619000,
+    "rating": 7.6,
+    "ranking": 45
+  },
+  {
+    "id": 17,
+    "name": "SASTRA University",
+    "courseFees": 167000,
+    "placement": 1010000,
+    "rating": 7.6,
+    "ranking": 34
+  },
+  {
+    "id": 18,
+    "name": "International Institute of Information Technology Hyderabad - [IIITH]",
+    "courseFees": 400000,
+    "placement": 3220000,
+    "rating": 7.5,
+    "ranking": 24
+  },
+  {
+    "id": 19,
+    "name": "Aligarh Muslim University - [AMU]",
+    "courseFees": 20000,
+    "placement": 450000,
+    "rating": 7.5,
+    "ranking": 32
+  },
+  {
+    "id": 20,
+    "name": "National Institute of Technology - [NIT]",
+    "courseFees": 166100,
+    "placement": 1416000,
+    "rating": 7.2,
+    "ranking": 28
+  }
+]

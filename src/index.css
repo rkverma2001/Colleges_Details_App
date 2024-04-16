@@ -1,0 +1,62 @@
+/* Styles for the table */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+thead {
+  background-color: #4caf50;
+  color: white;
+}
+
+th {
+  cursor: pointer;
+  padding: 10px;
+  text-align: left;
+}
+
+th:hover {
+  background-color: #367832;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+tbody tr:hover {
+  background-color: #ddd;
+}
+
+td {
+  padding: 10px;
+}
+
+.searchTerm {
+  width: 250px;
+  border: 3px solid #00b4cc;
+  padding: 5px;
+  height: 20px;
+  border-radius: 5px;
+  outline: none;
+  color: #9dbfaf;
+}
+
+.searchTerm:focus {
+  color: #00b4cc;
+}
+
+/* Styles for load more button */
+tfoot button {
+  background-color: #4caf50;
+  color: white;
+  padding: 8px 16px;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: background-color 0.3s;
+}
+
+tfoot button:hover {
+  background-color: #367832;
+}
